@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e2db7307-f362-313a-3203-12f97deec35c
 resourcetype: Document
 title: Thoughts on Caligari and Faustus
 uid: a4590f48-8d77-3cf6-c8c0-9247764b4a37

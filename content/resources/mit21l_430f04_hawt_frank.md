@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e2db7307-f362-313a-3203-12f97deec35c
 resourcetype: Document
 title: Hawthorne and Frankenstein Journal
 uid: f3005c39-afe9-df84-e94b-efa5700526a8

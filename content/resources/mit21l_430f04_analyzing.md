@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7b6d4678-cb9c-76c2-0e8c-c0e2dd58b32f
 resourcetype: Document
 title: Analyzing a Text
 uid: ed234900-c360-2e3e-a6c2-3f807daaf5c0

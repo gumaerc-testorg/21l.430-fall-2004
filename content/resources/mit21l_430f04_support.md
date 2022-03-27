@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e2db7307-f362-313a-3203-12f97deec35c
 resourcetype: Document
 title: The Role of Supporting Characters in Dr. Faustus
 uid: ef63a563-32f4-1602-db81-de79f229ae64

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e2db7307-f362-313a-3203-12f97deec35c
 resourcetype: Document
 title: Hawthorne Analysis
 uid: f896a7a7-87c1-70f2-a8cc-34a32ab2a513

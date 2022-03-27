@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e2db7307-f362-313a-3203-12f97deec35c
 resourcetype: Document
 title: Faustus Analysis
 uid: 4ce652cb-77e9-04be-27fb-ab12b2b932d6

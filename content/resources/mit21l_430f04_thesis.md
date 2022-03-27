@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7b6d4678-cb9c-76c2-0e8c-c0e2dd58b32f
 resourcetype: Document
 title: Building a Thesis
 uid: 107b2509-8ead-dfaa-64cd-50003c1b536a
