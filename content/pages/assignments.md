@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -110,7 +112,7 @@ Student Samples
 Hawthorne Analysis (Courtesy of Rose Grabowsky.  Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_430f04_hawt_ana))
+({{% resource_link f896a7a7-87c1-70f2-a8cc-34a32ab2a513 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +121,7 @@ Hawthorne Analysis (Courtesy of Rose Grabowsky.  Used with permission.)
 Faustus Analysis (Courtesy of Rose Grabowsky.  Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_430f04_analysis))
+({{% resource_link 4ce652cb-77e9-04be-27fb-ab12b2b932d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +130,7 @@ Faustus Analysis (Courtesy of Rose Grabowsky.  Used with permission.)
 Unthinking Scientists (On Hawthorne and Frankenstein.) (Courtesy of Lindsay Hays.  Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_430f04_unthink))
+({{% resource_link 8409b22b-98d6-948c-b3ba-f0101946a445 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +139,7 @@ Unthinking Scientists (On Hawthorne and Frankenstein.) (Courtesy of Lindsay Hays
 The Role of Supporting Characters in Dr. Faustus. (Courtesy of Lindsay Hays.  Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_430f04_support))
+({{% resource_link ef63a563-32f4-1602-db81-de79f229ae64 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +148,7 @@ The Role of Supporting Characters in Dr. Faustus. (Courtesy of Lindsay Hays.  U
 Hawthorne and Frankenstein Journal. (Courtesy of Zachary Weston.  Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_430f04_hawt_frank))
+({{% resource_link f3005c39-afe9-df84-e94b-efa5700526a8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +157,7 @@ Hawthorne and Frankenstein Journal. (Courtesy of Zachary Weston.  Used with pe
 Thoughts on Caligari and Faustus. (Courtesy of Zachary Weston.  Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_430f04_caligari))
+({{% resource_link a4590f48-8d77-3cf6-c8c0-9247764b4a37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
