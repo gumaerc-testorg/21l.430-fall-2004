@@ -5,6 +5,7 @@ file: /courses/21l-430-popular-narrative-masterminds-fall-2004/f896a7a787c170f2a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Hawthorne Analysis
 uid: f896a7a7-87c1-70f2-a8cc-34a32ab2a513
 ---
 Example student journal assignment.
-

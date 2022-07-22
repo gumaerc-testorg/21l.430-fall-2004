@@ -5,6 +5,7 @@ file: /courses/21l-430-popular-narrative-masterminds-fall-2004/8409b22b98d6948cb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Unthinking Scientists (On Hawthorne and Frankenstein.)
 uid: 8409b22b-98d6-948c-b3ba-f0101946a445
 ---
 Example student journal assignment.
-

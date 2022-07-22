@@ -5,6 +5,7 @@ file: /courses/21l-430-popular-narrative-masterminds-fall-2004/ef63a56332f41602d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Role of Supporting Characters in Dr. Faustus
 uid: ef63a563-32f4-1602-db81-de79f229ae64
 ---
 Example student journal assignment.
-
