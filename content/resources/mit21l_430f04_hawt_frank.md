@@ -2,6 +2,7 @@
 content_type: resource
 description: Example student journal assignment.
 file: /courses/21l-430-popular-narrative-masterminds-fall-2004/f3005c39afe9df84e94befa5700526a8_MIT21L_430F04_hawt_frank.pdf
+file_size: 517183
 file_type: application/pdf
 learning_resource_types:
 - Assignments
